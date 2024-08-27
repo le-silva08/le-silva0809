@@ -4,4 +4,4 @@ meu nome e leticia
 
 -Estou estudando no alura
 
--E estouno primeiro ano do ensino medio
+-E cursando o primeiro ano do ensino medio
